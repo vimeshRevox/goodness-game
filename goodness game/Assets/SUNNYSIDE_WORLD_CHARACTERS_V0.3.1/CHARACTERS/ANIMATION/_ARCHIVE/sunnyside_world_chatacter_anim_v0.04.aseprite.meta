@@ -1,0 +1,6044 @@
+fileFormatVersion: 2
+guid: 6663696149d30854bacd2a5855d39b69
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_51
+    originalName: 
+    pivot: {x: 0.4375, y: -0.59999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 396
+      width: 16
+      height: 25
+    spriteID: f8405fdd2d39a224ab28062376debbfb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 396}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_52
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.59999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 396
+      width: 17
+      height: 25
+    spriteID: 34817798594fdfe44ba33b925534e5e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 396}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_53
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 364
+      width: 17
+      height: 24
+    spriteID: bef971ed1ec3c41439bebe744295a084
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 364}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_54
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 364
+      width: 17
+      height: 24
+    spriteID: e40f3829771a2c44b8d134742d167a22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 364}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_55
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 318
+      y: 364
+      width: 15
+      height: 24
+    spriteID: 2f6e1ab07ebc5fd4095d2c02890b393e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 318, y: 364}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_56
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 364
+      width: 15
+      height: 24
+    spriteID: bee37526992bb824d8d9db0fb5860c8b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 341, y: 364}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_57
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 364
+      y: 364
+      width: 15
+      height: 24
+    spriteID: a8983970295fadc4da98d7e9bca5482f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 364, y: 364}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_58
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.59999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 396
+      width: 15
+      height: 25
+    spriteID: ec2adbd269ef17a489c8e30f96650dcb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 396}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_92
+    originalName: 
+    pivot: {x: 0.18181819, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 224
+      width: 44
+      height: 19
+    spriteID: 3ca1e52fe9f15cf42946ab5cf4d02e50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 224}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_93
+    originalName: 
+    pivot: {x: 0.17021276, y: -1.1363636}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 227
+      y: 192
+      width: 47
+      height: 22
+    spriteID: 3fe109ebd47034e409daab72f7e6c4f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 227, y: 192}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_94
+    originalName: 
+    pivot: {x: 0.12765957, y: -1.0416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 192
+      width: 47
+      height: 24
+    spriteID: 18fbd1a8f8b0baa429322a5f379cd1db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 192}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_102
+    originalName: 
+    pivot: {x: 0.18181819, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 192
+      width: 44
+      height: 20
+    spriteID: 74c2396b5c35a7348856f9470afd50cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 448, y: 192}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_103
+    originalName: 
+    pivot: {x: 0.17021276, y: -1.1363636}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 282
+      y: 192
+      width: 47
+      height: 22
+    spriteID: 139d0fec1b4a63a428d194525814dc4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 282, y: 192}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_104
+    originalName: 
+    pivot: {x: 0.12765957, y: -1.0416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 192
+      width: 47
+      height: 24
+    spriteID: 400a13bd3e6c973488ef712421f43ecb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 59, y: 192}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_136
+    originalName: 
+    pivot: {x: 0.18604651, y: -0.923077}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 224
+      width: 43
+      height: 26
+    spriteID: 08c4c450b09ee664783ddd9553bbb8ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 224}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_137
+    originalName: 
+    pivot: {x: 0.17021276, y: -1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 337
+      y: 192
+      width: 47
+      height: 20
+    spriteID: 0b848dcd374f90f4bafee9f0aadf4085
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 337, y: 192}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_138
+    originalName: 
+    pivot: {x: 0.1764706, y: -1.1363636}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 192
+      width: 51
+      height: 22
+    spriteID: f86f9ad7d3ef6a94c93462022899539f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 192}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_139
+    originalName: 
+    pivot: {x: 0.17307693, y: -1.0416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 147
+      width: 52
+      height: 24
+    spriteID: 16f5c70e0a379414493effa4de9042ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 352, y: 147}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_146
+    originalName: 
+    pivot: {x: 0.1627907, y: -0.7741935}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 103
+      width: 43
+      height: 31
+    spriteID: 2bda1b17b768ce045bf9563798a7acb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 103}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_147
+    originalName: 
+    pivot: {x: 0.15217392, y: -1.0434783}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 173
+      y: 192
+      width: 46
+      height: 23
+    spriteID: 928c0195508e4614395d2834b2dd5fd4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 192}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_148
+    originalName: 
+    pivot: {x: 0.12765957, y: -0.96}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 413
+      y: 103
+      width: 47
+      height: 25
+    spriteID: d92db5f14384331409315aebaf11e3ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 413, y: 103}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_48
+    originalName: 
+    pivot: {x: 0.5, y: -1.923077}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 429
+      width: 20
+      height: 13
+    spriteID: d09139f973881804db8dd21287758330
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_49
+    originalName: 
+    pivot: {x: 0.5, y: -2.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 429
+      width: 22
+      height: 10
+    spriteID: 8ddb46d1a1e3f3149935dabc92b593b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_50
+    originalName: 
+    pivot: {x: 0.5, y: -2.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 228
+      y: 452
+      width: 18
+      height: 10
+    spriteID: e5f09dbb706f524499dc110a64c582e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_59
+    originalName: 
+    pivot: {x: 0.6, y: -1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 452
+      width: 15
+      height: 16
+    spriteID: cfacbc70d99cfac49a75817bed2300a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 98, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_60
+    originalName: 
+    pivot: {x: 0.64705884, y: -1.5333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 118
+      y: 429
+      width: 17
+      height: 15
+    spriteID: 133e8cd01840f1647adb724a96ae1f17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_61
+    originalName: 
+    pivot: {x: 0.7222222, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 477
+      y: 396
+      width: 18
+      height: 15
+    spriteID: e11c4bd7ebc54ad42a3a8b9a7f44ec89
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 477, y: 396}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_62
+    originalName: 
+    pivot: {x: 0.7777778, y: -1.8000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 429
+      width: 18
+      height: 15
+    spriteID: 06bf9bdf52eb1404c83d9163237e83ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_71
+    originalName: 
+    pivot: {x: 0.5, y: -1.388889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 387
+      y: 364
+      width: 20
+      height: 18
+    spriteID: f919c6dcc5767c54a8fb5d31bac6fed3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 387, y: 364}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_72
+    originalName: 
+    pivot: {x: 0.5, y: -1.388889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 423
+      y: 296
+      width: 22
+      height: 18
+    spriteID: 10f61d10292c1b44bb3a67351ab9ce3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 423, y: 296}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_73
+    originalName: 
+    pivot: {x: 0.5, y: -1.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 396
+      width: 18
+      height: 16
+    spriteID: 18da3d5381be28340b8cbfca33f67494
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 396}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_74
+    originalName: 
+    pivot: {x: 0.6, y: -1.923077}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 358
+      y: 429
+      width: 15
+      height: 13
+    spriteID: 07ebec9c8aacf8f4faf7e85905fef774
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 358, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_78
+    originalName: 
+    pivot: {x: 0.5294118, y: -1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 396
+      width: 17
+      height: 16
+    spriteID: c34823b67efa2594fbf3f7daadee4e85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 452, y: 396}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_79
+    originalName: 
+    pivot: {x: 0.57894737, y: -1.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 191
+      y: 396
+      width: 19
+      height: 17
+    spriteID: 9d326fcd35da63e4ca839bf5feb863ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 191, y: 396}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_80
+    originalName: 
+    pivot: {x: 0.61904764, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 218
+      y: 396
+      width: 21
+      height: 15
+    spriteID: 172ac9e9a88b11c498593e4aefbd8d7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 218, y: 396}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_81
+    originalName: 
+    pivot: {x: 0.6363636, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 396
+      width: 22
+      height: 15
+    spriteID: e8bb2ddcaf12a784d9879f19c3ea47ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 396}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_120
+    originalName: 
+    pivot: {x: 0.29411766, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 127
+      y: 258
+      width: 34
+      height: 19
+    spriteID: 64d4ba356d2178040ab63b86c00cb2dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 258}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_121
+    originalName: 
+    pivot: {x: 0.3030303, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 247
+      y: 258
+      width: 33
+      height: 19
+    spriteID: 3fdf439aaa375c744a4c0df82d96848a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 247, y: 258}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_122
+    originalName: 
+    pivot: {x: 0.3125, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 365
+      y: 258
+      width: 32
+      height: 19
+    spriteID: f8938ebac5424574e80f5224c264506e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 365, y: 258}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_125
+    originalName: 
+    pivot: {x: 0.8484849, y: -1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 474
+      y: 224
+      width: 33
+      height: 20
+    spriteID: bf0c54222dcda1a4db795ed545dd8fba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 474, y: 224}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_126
+    originalName: 
+    pivot: {x: 0.85714287, y: -1.0952381}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 252
+      y: 224
+      width: 35
+      height: 21
+    spriteID: cdac660031b1c2843897484b42f167be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 252, y: 224}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_127
+    originalName: 
+    pivot: {x: 0.8648649, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 258
+      width: 37
+      height: 19
+    spriteID: 685404b2783c2004587a03bbdfc18e55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 258}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_128
+    originalName: 
+    pivot: {x: 0.8684211, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 224
+      width: 38
+      height: 19
+    spriteID: 54c00ea203b5a3a4bbed7fdffb949c47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 336, y: 224}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_140
+    originalName: 
+    pivot: {x: 0.20833334, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 392
+      y: 192
+      width: 48
+      height: 19
+    spriteID: 922ec54fdaa9c8348b80577eb0480312
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 392, y: 192}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_46
+    originalName: 
+    pivot: {x: 0.5, y: -2.0833335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 425
+      y: 429
+      width: 16
+      height: 12
+    spriteID: 36447e18b72c8924a8870695bffa643c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 425, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_47
+    originalName: 
+    pivot: {x: 0.5, y: -3.5714288}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 252
+      y: 479
+      width: 18
+      height: 7
+    spriteID: f73fbfc68cef26e40895f2a4abf4032a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 252, y: 479}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_63
+    originalName: 
+    pivot: {x: 0.7777778, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 429
+      width: 18
+      height: 15
+    spriteID: 95029a9fac9ae404fa3a51cc66057f92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_69
+    originalName: 
+    pivot: {x: 0.5, y: -1.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26
+      y: 452
+      width: 16
+      height: 16
+    spriteID: 190b022cc4d47c44786effe5a56d3306
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_70
+    originalName: 
+    pivot: {x: 0.5, y: -1.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 396
+      width: 18
+      height: 17
+    spriteID: e1fdafb8269a7ef48a3963a8264d1747
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 396}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_82
+    originalName: 
+    pivot: {x: 0.53846157, y: -2.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 429
+      width: 26
+      height: 10
+    spriteID: 03ee345ed15746e4aa036f1fc67b19a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_83
+    originalName: 
+    pivot: {x: 0.5, y: -2.0833335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 443
+      y: 364
+      width: 28
+      height: 12
+    spriteID: 8d9351a87200999429864b5e52ed6f57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 443, y: 364}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_123
+    originalName: 
+    pivot: {x: 0.5714286, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 258
+      width: 35
+      height: 19
+    spriteID: b77ce3c48617ef5468f66902b37eba47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 258}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_129
+    originalName: 
+    pivot: {x: 0.8684211, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 382
+      y: 224
+      width: 38
+      height: 19
+    spriteID: ac24d4b3f282a2b4b9e7c1a16326b4be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 382, y: 224}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_130
+    originalName: 
+    pivot: {x: 0.8684211, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 428
+      y: 224
+      width: 38
+      height: 19
+    spriteID: 4bde681707b42e44985c5446d6bcdeda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 428, y: 224}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_64
+    originalName: 
+    pivot: {x: 0.71428573, y: -2.0833335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 25
+      y: 479
+      width: 14
+      height: 12
+    spriteID: eedaa7078f1d25044b5eab963294d494
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 479}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_65
+    originalName: 
+    pivot: {x: 0.6875, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 429
+      width: 16
+      height: 15
+    spriteID: 10933cc7eb33b484a99cdd02e589f12b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_66
+    originalName: 
+    pivot: {x: 0.64705884, y: -1.8000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 429
+      width: 17
+      height: 15
+    spriteID: 931611dc85660da4bb0c87920cece709
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_84
+    originalName: 
+    pivot: {x: 0.36363637, y: -1.7857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 270
+      y: 396
+      width: 22
+      height: 14
+    spriteID: b6f6607ba29111448b54b6850b25de45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 270, y: 396}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_85
+    originalName: 
+    pivot: {x: 0.35, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 374
+      y: 396
+      width: 20
+      height: 15
+    spriteID: 34a0d970564b8734c8c0eac196246ae4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 374, y: 396}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_124
+    originalName: 
+    pivot: {x: 0.7352941, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 258
+      width: 34
+      height: 19
+    spriteID: 6fc3e0f5f17791d46aba99d6c6d193c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 258}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_91
+    originalName: 
+    pivot: {x: 0.51282054, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 103
+      width: 39
+      height: 25
+    spriteID: b684c66153d3f9e44b9c8d4b327e2804
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 468, y: 103}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_101
+    originalName: 
+    pivot: {x: 0.47619048, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 224
+      width: 42
+      height: 25
+    spriteID: 25c443409d10554419a8b68056739095
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 224}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_145
+    originalName: 
+    pivot: {x: 0.43589744, y: -0.80645156}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 366
+      y: 103
+      width: 39
+      height: 31
+    spriteID: c2c8300baaa2d584989dd1a818a5a112
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 366, y: 103}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_205
+    originalName: 
+    pivot: {x: 0.27272728, y: -1.388889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 453
+      y: 296
+      width: 22
+      height: 18
+    spriteID: 1c6b7ba1e964cb748be1ce441f47068a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 453, y: 296}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_206
+    originalName: 
+    pivot: {x: 0.30434784, y: -1.0416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 323
+      width: 23
+      height: 24
+    spriteID: dbc041fb9a6091d42a083eb5c466f952
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 323}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_207
+    originalName: 
+    pivot: {x: 0.5, y: -0.9259259}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 323
+      width: 20
+      height: 27
+    spriteID: d67c401935dc4104588ae6db81e31a7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 165, y: 323}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_133
+    originalName: 
+    pivot: {x: 0.7857143, y: -1.0869565}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 258
+      width: 28
+      height: 23
+    spriteID: b64aa623902f70044bfed56b2626ce4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 258}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_134
+    originalName: 
+    pivot: {x: 0.7037037, y: -0.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 258
+      width: 27
+      height: 30
+    spriteID: 55ca469f776262449bcda7af660a808e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 258}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_135
+    originalName: 
+    pivot: {x: 0.35714287, y: -0.9615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 224
+      width: 42
+      height: 26
+    spriteID: 369f5d8bf5b5c504baa6d099461c14b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 224}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_0
+    originalName: 
+    pivot: {x: 0.5833334, y: -1.7857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 479
+      width: 12
+      height: 14
+    spriteID: a248adc03714ca54bb06eea18e58d86a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 479}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_1
+    originalName: 
+    pivot: {x: 0.5833334, y: -1.923077}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 479
+      width: 12
+      height: 13
+    spriteID: 6883dcf988a7a704590672e652005aa6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 479}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_2
+    originalName: 
+    pivot: {x: 0.6, y: -1.7857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 498
+      y: 147
+      width: 10
+      height: 14
+    spriteID: 50a3d0bbb67c5e14fb5f2a579a68f315
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: 147}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_3
+    originalName: 
+    pivot: {x: 0.5555556, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 235
+      y: 479
+      width: 9
+      height: 15
+    spriteID: 4905501fe341ef44e878203e8f31dd51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 235, y: 479}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_4
+    originalName: 
+    pivot: {x: 0.5555556, y: -1.7857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 252
+      y: 494
+      width: 9
+      height: 14
+    spriteID: 45a6f44a9a27d1e48acb6a5e3533dd6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 252, y: 494}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_5
+    originalName: 
+    pivot: {x: 0.5555556, y: -1.923077}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 494
+      width: 9
+      height: 13
+    spriteID: b128710883bbf61459b2a5ba84273f77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: 494}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_6
+    originalName: 
+    pivot: {x: 0.6, y: -1.7857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 498
+      y: 169
+      width: 10
+      height: 14
+    spriteID: b7ec2bc43f8cc744597eb727d895aeac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: 169}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_7
+    originalName: 
+    pivot: {x: 0.5833334, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 496
+      y: 4
+      width: 12
+      height: 15
+    spriteID: b355a23745cb28f48893101183ecff05
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 496, y: 4}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_8
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.78125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 323
+      width: 17
+      height: 32
+    spriteID: d2a814f8a67744d4382645d901142c45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 323}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_9
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.78125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 115
+      y: 323
+      width: 17
+      height: 32
+    spriteID: 7f83e538364ab29479616f135c289877
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 115, y: 323}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: -0.78125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 323
+      width: 16
+      height: 32
+    spriteID: 466b718e567466f42ab41ffcf3c6a1b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 348, y: 323}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.75757575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 229
+      y: 323
+      width: 16
+      height: 33
+    spriteID: 8667f07a02ef1514da57f543b6e36d19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 323}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: -0.78125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 372
+      y: 323
+      width: 16
+      height: 32
+    spriteID: 7e4f1e2c78b270f428790535a6ad3acb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 372, y: 323}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: -0.78125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 323
+      width: 16
+      height: 32
+    spriteID: ee758a4c91426e24d9bcfbd01d295f54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 323}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_14
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.78125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 323
+      width: 17
+      height: 32
+    spriteID: 9e8cb47ff5a88504bb738e2f5bb8c47a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 323}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_15
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.75757575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 323
+      width: 17
+      height: 33
+    spriteID: 519322df417753d48bf42c4842f1d074
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 323}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_16
+    originalName: 
+    pivot: {x: 0.5833334, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 496
+      y: 27
+      width: 12
+      height: 15
+    spriteID: b6474302a2f2f62439be4185fda114ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 496, y: 27}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_17
+    originalName: 
+    pivot: {x: 0.5833334, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 254
+      y: 452
+      width: 12
+      height: 15
+    spriteID: b3fde026947b3e244b5114bcddbe47ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 254, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_18
+    originalName: 
+    pivot: {x: 0.5833334, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 274
+      y: 452
+      width: 12
+      height: 15
+    spriteID: 69e5a50a72e028e49b1ffc1b1540b604
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 274, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_19
+    originalName: 
+    pivot: {x: 0.5714286, y: -1.7857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 270
+      y: 429
+      width: 14
+      height: 14
+    spriteID: 4e58bc33bf8d4204983b57f6e905a967
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 270, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_20
+    originalName: 
+    pivot: {x: 0.5714286, y: -1.7857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 429
+      width: 14
+      height: 14
+    spriteID: 5cda081b1887a424389d62c841ab7156
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_21
+    originalName: 
+    pivot: {x: 0.5833334, y: -1.7857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 479
+      width: 12
+      height: 14
+    spriteID: 94a4b3990035fa5489bb51504cc34a3d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 479}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_22
+    originalName: 
+    pivot: {x: 0.5833334, y: -1.7857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 479
+      width: 12
+      height: 14
+    spriteID: e99f26779d7173f478e692586e2a1e77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 479}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_23
+    originalName: 
+    pivot: {x: 0.5833334, y: -1.7857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 479
+      width: 12
+      height: 14
+    spriteID: 420b2ddc2e6e6ad47a331893c3d8661c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 479}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_24
+    originalName: 
+    pivot: {x: 0.5833334, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 294
+      y: 452
+      width: 12
+      height: 15
+    spriteID: a65c73d8f29d8f642964436bcc8f1c03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 294, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_25
+    originalName: 
+    pivot: {x: 0.22727273, y: -1.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 364
+      width: 22
+      height: 17
+    spriteID: f6fc69c62ed4f024491655671e5418ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 195, y: 364}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_26
+    originalName: 
+    pivot: {x: 0.21739131, y: -1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 225
+      y: 364
+      width: 23
+      height: 16
+    spriteID: ea5a7b40f8fd3bb40beb91bd3dce82cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 364}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_27
+    originalName: 
+    pivot: {x: 0.19999999, y: -1.2222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 289
+      y: 296
+      width: 25
+      height: 18
+    spriteID: 29a919fe3e210664282a9b1d654a36b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 289, y: 296}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_28
+    originalName: 
+    pivot: {x: 0.1851852, y: -1.2222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 296
+      width: 27
+      height: 18
+    spriteID: e01a7595357976f43a74089ac6754805
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 296}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_29
+    originalName: 
+    pivot: {x: 0.17857143, y: -1.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 296
+      width: 28
+      height: 17
+    spriteID: a8513932e54abd94d9a3470d8de8871a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 185, y: 296}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_30
+    originalName: 
+    pivot: {x: 0.5833334, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 314
+      y: 452
+      width: 12
+      height: 15
+    spriteID: 32cbc739ea560e84cbc4a52f5d652dab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 314, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_31
+    originalName: 
+    pivot: {x: 0.6428572, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 452
+      width: 14
+      height: 19
+    spriteID: 22af33e14f815324580c5a18f71a4e50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_32
+    originalName: 
+    pivot: {x: 0.625, y: -1.388889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 428
+      y: 396
+      width: 16
+      height: 18
+    spriteID: b566f5984794f994a89d0fe2f6560b7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 428, y: 396}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_33
+    originalName: 
+    pivot: {x: 0.625, y: -1.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 452
+      width: 16
+      height: 16
+    spriteID: c26a4096ad5e128478dde695eadb2158
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_34
+    originalName: 
+    pivot: {x: 0.5625, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 429
+      width: 16
+      height: 15
+    spriteID: 26692b838dc3af148a89045fbf6f6180
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_35
+    originalName: 
+    pivot: {x: 0.53846157, y: -1.7857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 449
+      y: 429
+      width: 13
+      height: 14
+    spriteID: 5bdc76204f6de3a4db9566fea271a32f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 449, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_36
+    originalName: 
+    pivot: {x: 0.53846157, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 381
+      y: 429
+      width: 13
+      height: 15
+    spriteID: c1022e804be51034ab8b157e299f6f67
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 381, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_37
+    originalName: 
+    pivot: {x: 0.5833334, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 452
+      width: 12
+      height: 15
+    spriteID: ad351aa5894e484459207b748c768fe1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_38
+    originalName: 
+    pivot: {x: 0.53846157, y: -1.388889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 452
+      width: 13
+      height: 18
+    spriteID: 68f248289f5d71a479898da7f77c45b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_39
+    originalName: 
+    pivot: {x: 0.5833334, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 354
+      y: 452
+      width: 12
+      height: 15
+    spriteID: fb271e3ff15ef7d4f8c1489f13ec40d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 354, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_40
+    originalName: 
+    pivot: {x: 0.53846157, y: -1.388889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 142
+      y: 452
+      width: 13
+      height: 18
+    spriteID: 65ff6b99e7dedc84b8bd44c8446d3f1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_41
+    originalName: 
+    pivot: {x: 0.5833334, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 374
+      y: 452
+      width: 12
+      height: 15
+    spriteID: 474d8ba55a94a0c4f824d0f044af9ac0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 374, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_42
+    originalName: 
+    pivot: {x: 0.53846157, y: -1.388889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 452
+      width: 13
+      height: 18
+    spriteID: 4c6799453d897b54aaf5c8f89c4cb962
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_67
+    originalName: 
+    pivot: {x: 0.5833334, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 394
+      y: 452
+      width: 12
+      height: 15
+    spriteID: 0d5311c3d378fbe4dae7ab00d74a8ff6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 394, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_68
+    originalName: 
+    pivot: {x: 0.6, y: -1.923077}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 429
+      width: 15
+      height: 13
+    spriteID: 88096984a61e6ae4abaae6b82e5306d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_75
+    originalName: 
+    pivot: {x: 0.5833334, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 414
+      y: 452
+      width: 12
+      height: 15
+    spriteID: a0bb4d712fc30db44b99c3c7093f43d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 414, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_76
+    originalName: 
+    pivot: {x: 0.5833334, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 434
+      y: 452
+      width: 12
+      height: 15
+    spriteID: 5aa0b4296a9e29d448403735cc411205
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 434, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_86
+    originalName: 
+    pivot: {x: 0.6, y: -1.1904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 247
+      y: 396
+      width: 15
+      height: 21
+    spriteID: e8f9d562da9da2f43a0bd19af74bb66e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 247, y: 396}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_87
+    originalName: 
+    pivot: {x: 0.68421054, y: -1.1363636}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 31
+      y: 364
+      width: 19
+      height: 22
+    spriteID: 9acf7a3fedf92a94b8c1b094841d13cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 364}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_88
+    originalName: 
+    pivot: {x: 0.79999995, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 323
+      width: 25
+      height: 20
+    spriteID: b64735037d5331e46952db585fc04d34
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 452, y: 323}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_89
+    originalName: 
+    pivot: {x: 0.8518519, y: -1.388889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 115
+      y: 296
+      width: 27
+      height: 18
+    spriteID: 203adbb053780b5479d9666194f2e997
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 115, y: 296}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_90
+    originalName: 
+    pivot: {x: 0.8846154, y: -1.388889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 221
+      y: 296
+      width: 26
+      height: 18
+    spriteID: 78a9979d54c3ce24089532dfa912a064
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 296}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_95
+    originalName: 
+    pivot: {x: 0.26086956, y: -1.388889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 359
+      y: 296
+      width: 23
+      height: 18
+    spriteID: a7d90d02d6b01e54e940f6046c0ddaec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 359, y: 296}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_96
+    originalName: 
+    pivot: {x: 0.7, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 364
+      width: 20
+      height: 20
+    spriteID: 2ff5c65a73c3c6c4787213d870da0db9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 364}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_97
+    originalName: 
+    pivot: {x: 0.75, y: -1.1904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 420
+      y: 323
+      width: 24
+      height: 21
+    spriteID: cac98589de47dee45bb274b2f71c1346
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 420, y: 323}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_98
+    originalName: 
+    pivot: {x: 0.8148148, y: -1.388889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 150
+      y: 296
+      width: 27
+      height: 18
+    spriteID: e99d1960935703049851914c4468c2ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 296}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_99
+    originalName: 
+    pivot: {x: 0.8518519, y: -1.0476191}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 479
+      y: 258
+      width: 27
+      height: 21
+    spriteID: effc1c137c8de3242804d693517c1e61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 479, y: 258}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_100
+    originalName: 
+    pivot: {x: 0.8846154, y: -0.86956525}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 445
+      y: 258
+      width: 26
+      height: 23
+    spriteID: 2648462bad0fc0249837f84d7e982d3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 445, y: 258}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_105
+    originalName: 
+    pivot: {x: 0.23076925, y: -1.388889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 296
+      width: 26
+      height: 18
+    spriteID: 6e778326a4ad29249a90272f42eb1769
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 296}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_118
+    originalName: 
+    pivot: {x: 0.3030303, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 258
+      width: 33
+      height: 19
+    spriteID: 670a957723cd3e244a51a6300ad91d4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: 258}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_119
+    originalName: 
+    pivot: {x: 0.3125, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 405
+      y: 258
+      width: 32
+      height: 19
+    spriteID: 41cc4fb4918811c48b2c61c7a6bd2455
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 405, y: 258}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_131
+    originalName: 
+    pivot: {x: 0.8000001, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 296
+      width: 30
+      height: 19
+    spriteID: 32335867124c1664582239719989ac90
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 296}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_132
+    originalName: 
+    pivot: {x: 0.8000001, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 42
+      y: 296
+      width: 30
+      height: 19
+    spriteID: 6f5a12889468ca14d86fed3eadc3f268
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 42, y: 296}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_141
+    originalName: 
+    pivot: {x: 0.6875, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 326
+      y: 396
+      width: 16
+      height: 19
+    spriteID: 84b0b3d18444d144189dad03860c329f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 326, y: 396}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_142
+    originalName: 
+    pivot: {x: 0.75, y: -1.1363636}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 323
+      width: 24
+      height: 22
+    spriteID: bbafde7d24516ce4aa7a174993b8e411
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 323}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_143
+    originalName: 
+    pivot: {x: 0.8214286, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 193
+      y: 323
+      width: 28
+      height: 19
+    spriteID: 0e26927fa6b6b9c46988a25bd119301d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 193, y: 323}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_144
+    originalName: 
+    pivot: {x: 0.8518519, y: -1.7857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 364
+      width: 27
+      height: 14
+    spriteID: f8b1abb678d8fb7459fe9e7eb8e579ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 364}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_149
+    originalName: 
+    pivot: {x: 0.33333334, y: -1.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 479
+      y: 364
+      width: 21
+      height: 16
+    spriteID: 9b8382cfb67e6df409a1e9907f4d2260
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 479, y: 364}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_150
+    originalName: 
+    pivot: {x: 0.6875, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 350
+      y: 396
+      width: 16
+      height: 19
+    spriteID: 27713218337dcc942ae0b056f20d4d26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 350, y: 396}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_151
+    originalName: 
+    pivot: {x: 0.21739131, y: -1.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 483
+      y: 296
+      width: 23
+      height: 17
+    spriteID: 42b2a371e6f02c14d9364080512a3fb1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 483, y: 296}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_157
+    originalName: 
+    pivot: {x: 0.19999999, y: -1.1904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 315
+      y: 323
+      width: 25
+      height: 21
+    spriteID: c6fc2420530c9764c8b369b841c881af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 315, y: 323}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_158
+    originalName: 
+    pivot: {x: 0.121212125, y: -1.0454546}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 224
+      width: 33
+      height: 22
+    spriteID: af601a4b333c7f44cb60ecc12834b27b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 224}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_159
+    originalName: 
+    pivot: {x: 0.13513514, y: -0.73913044}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 155
+      y: 224
+      width: 37
+      height: 23
+    spriteID: 9ae441b5bc279c24f8256edebfff0820
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 155, y: 224}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_160
+    originalName: 
+    pivot: {x: 0.1388889, y: -0.1764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 412
+      y: 147
+      width: 36
+      height: 34
+    spriteID: 2bb4359b4ac5b0e4fadbf90c6afcd754
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 412, y: 147}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_161
+    originalName: 
+    pivot: {x: 0.13157895, y: -0.081081085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 58
+      width: 38
+      height: 37
+    spriteID: a4e9220a9579b4f41b4c1410bdf0c9df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 58}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_162
+    originalName: 
+    pivot: {x: 0.125, y: -0.081081085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 58
+      width: 40
+      height: 37
+    spriteID: da9df8c09afeef34c8a84b643c675ec5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 58}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_163
+    originalName: 
+    pivot: {x: 0.11904762, y: -0.05263158}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 446
+      y: 4
+      width: 42
+      height: 38
+    spriteID: c55750114bebb7c4aa73c9b323cc7070
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 446, y: 4}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_164
+    originalName: 
+    pivot: {x: 0.116279066, y: -0.05263158}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 343
+      y: 4
+      width: 43
+      height: 38
+    spriteID: 473c0408b66ff5d4f9286438458aff32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 343, y: 4}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_165
+    originalName: 
+    pivot: {x: 0.11363637, y: -0.081081085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 394
+      y: 4
+      width: 44
+      height: 37
+    spriteID: 3323f511a03ed504bbc07cf8bb3cb3de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 394, y: 4}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_166
+    originalName: 
+    pivot: {x: 0.1891892, y: -0.081081085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 190
+      y: 58
+      width: 37
+      height: 37
+    spriteID: 533d2b9849f2f3f46b765925107f4224
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 190, y: 58}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_167
+    originalName: 
+    pivot: {x: 0.1891892, y: -0.081081085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 235
+      y: 58
+      width: 37
+      height: 37
+    spriteID: c3c600d931735e149a2ea7bad8d7015e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 235, y: 58}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_168
+    originalName: 
+    pivot: {x: 0.1891892, y: -0.081081085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 280
+      y: 58
+      width: 37
+      height: 37
+    spriteID: 0d64004effa710c428f41261126f5c1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 280, y: 58}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_169
+    originalName: 
+    pivot: {x: 0.21052632, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 103
+      width: 38
+      height: 36
+    spriteID: 10be6f152504f234890e812377cac1ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 103}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_170
+    originalName: 
+    pivot: {x: 0.21052632, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 103
+      width: 38
+      height: 36
+    spriteID: 8f1db63e65dcc3344bbe4dd1ac70b78c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 103}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_171
+    originalName: 
+    pivot: {x: 0.1891892, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 103
+      width: 37
+      height: 36
+    spriteID: 985b8f37edb3cb547bbe147a514f338e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 103}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_172
+    originalName: 
+    pivot: {x: 0.1891892, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 103
+      width: 37
+      height: 36
+    spriteID: 7c52ed6ad9b49b242b29e26cee38b1be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 103}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_173
+    originalName: 
+    pivot: {x: 0.1891892, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 237
+      y: 103
+      width: 37
+      height: 36
+    spriteID: 44e31c3d0cbf7954cbb437692a9e64fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 237, y: 103}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_174
+    originalName: 
+    pivot: {x: 0.1891892, y: -0.081081085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 325
+      y: 58
+      width: 37
+      height: 37
+    spriteID: fcde2e6f4ab55394eafaa6be17800b3d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 325, y: 58}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_175
+    originalName: 
+    pivot: {x: 0.14285715, y: -0.081081085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 147
+      width: 35
+      height: 37
+    spriteID: 24fbc0e3f23e9e8469c7924bdb2fb945
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 147}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_176
+    originalName: 
+    pivot: {x: 0.16666667, y: -0.081081085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 147
+      width: 36
+      height: 37
+    spriteID: cc53b9166fe66bc42bdb951e71da7938
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 147}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_177
+    originalName: 
+    pivot: {x: 0.1891892, y: -0.081081085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 58
+      width: 37
+      height: 37
+    spriteID: 0ff460eb391c7344ab9e5a88df417a0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 58}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_178
+    originalName: 
+    pivot: {x: 0.21052632, y: -0.081081085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 58
+      width: 38
+      height: 37
+    spriteID: 3875c579ce869da4b91ee14374613e7a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 98, y: 58}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_179
+    originalName: 
+    pivot: {x: 0.21052632, y: -0.081081085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 58
+      width: 38
+      height: 37
+    spriteID: febad3f1c9206ec468650fca33246293
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 58}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_180
+    originalName: 
+    pivot: {x: 0.1891892, y: -0.081081085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 415
+      y: 58
+      width: 37
+      height: 37
+    spriteID: 0a6178149dfc59a4f817ecb0841501b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 415, y: 58}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_181
+    originalName: 
+    pivot: {x: 0.16666667, y: -0.081081085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 147
+      width: 36
+      height: 37
+    spriteID: 5c1db7621c98b7746a6969655f3a3177
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 147}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_182
+    originalName: 
+    pivot: {x: 0.14285715, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 309
+      y: 147
+      width: 35
+      height: 36
+    spriteID: 509e4edf54c850a428e158369a457f95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 309, y: 147}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_183
+    originalName: 
+    pivot: {x: 0.11764706, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 456
+      y: 147
+      width: 34
+      height: 36
+    spriteID: c3962266036025e44b74c71a4119474f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 456, y: 147}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_184
+    originalName: 
+    pivot: {x: 0.11764706, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 282
+      y: 103
+      width: 34
+      height: 36
+    spriteID: 9aa0ab74aed6db9478e7fcb84df1cb8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 282, y: 103}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_185
+    originalName: 
+    pivot: {x: 0.11764706, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 324
+      y: 103
+      width: 34
+      height: 36
+    spriteID: bb645c438c76681499dc679197245f0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 324, y: 103}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_186
+    originalName: 
+    pivot: {x: 0.14285715, y: -0.081081085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 147
+      width: 35
+      height: 37
+    spriteID: d82da8bece8061d4dbeee4be7c589534
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 147}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_187
+    originalName: 
+    pivot: {x: 0.14285715, y: -0.081081085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 266
+      y: 147
+      width: 35
+      height: 37
+    spriteID: 0d099637f00ba98488b8f78dd9b3dddd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 266, y: 147}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_188
+    originalName: 
+    pivot: {x: 0.16666667, y: -0.081081085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 147
+      width: 36
+      height: 37
+    spriteID: 0dd26c1133a2d3f4d8518def84036db8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 147}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_189
+    originalName: 
+    pivot: {x: 0.16666667, y: -0.081081085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 147
+      width: 36
+      height: 37
+    spriteID: 3e332c66194917044a77a01aca9d1b18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 136, y: 147}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_190
+    originalName: 
+    pivot: {x: 0.1891892, y: -0.081081085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 58
+      width: 37
+      height: 37
+    spriteID: 69d1588061a6259449797d883a642232
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 58}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_197
+    originalName: 
+    pivot: {x: 0.19999999, y: -1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 390
+      y: 296
+      width: 25
+      height: 16
+    spriteID: ebc1875e3c9ae4a4da09dbece5f9984f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 390, y: 296}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_200
+    originalName: 
+    pivot: {x: 0.25, y: -1.4117647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 415
+      y: 364
+      width: 20
+      height: 17
+    spriteID: 9896625bd0b50b84bb4e9b38e9ad9ef1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 415, y: 364}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_201
+    originalName: 
+    pivot: {x: 0.1904762, y: -1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 396
+      width: 21
+      height: 16
+    spriteID: 8e3675ab5ab39a241861526ff1f9014e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 396}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_202
+    originalName: 
+    pivot: {x: 0.18181819, y: -1.6000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 135
+      y: 396
+      width: 22
+      height: 15
+    spriteID: a888f039c24299b4d9efb59379445457
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 396}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_203
+    originalName: 
+    pivot: {x: 0.21739131, y: -1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 364
+      width: 23
+      height: 16
+    spriteID: 205b2548f0cfe514888a97c33b3fa8f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 364}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_204
+    originalName: 
+    pivot: {x: 0.21739131, y: -1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 364
+      width: 23
+      height: 16
+    spriteID: 4b850a89727d31d40a0f827961df5d10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 364}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_208
+    originalName: 
+    pivot: {x: 0.6363636, y: -1.0416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 285
+      y: 323
+      width: 22
+      height: 24
+    spriteID: b9f5c817a9181dd44a02d4909eb30b1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 285, y: 323}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_209
+    originalName: 
+    pivot: {x: 0.5357143, y: -1.1363636}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 329
+      y: 258
+      width: 28
+      height: 22
+    spriteID: 3ca69947b634c0b4294d4b983cfec0c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 329, y: 258}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_77
+    originalName: 
+    pivot: {x: 0.53846157, y: -1.923077}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 479
+      width: 13
+      height: 13
+    spriteID: 17402c3e13b6ce34785da81341538aa7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 479}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_106
+    originalName: 
+    pivot: {x: 0.5714286, y: -1.9285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 314
+      y: 429
+      width: 14
+      height: 14
+    spriteID: bba222f20b3d2c54c8e0836ddfa57dfc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 314, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_107
+    originalName: 
+    pivot: {x: 0.5714286, y: -1.9285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 429
+      width: 14
+      height: 14
+    spriteID: 0242e1bc9ef5a2948b7fe2c4112adfc1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 336, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_108
+    originalName: 
+    pivot: {x: 0.5714286, y: -2.0769231}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 470
+      y: 429
+      width: 14
+      height: 13
+    spriteID: bf2d63a39058e9f448228ba7a9787700
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 470, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_109
+    originalName: 
+    pivot: {x: 0.5714286, y: -2.0769231}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 492
+      y: 429
+      width: 14
+      height: 13
+    spriteID: b0f04f71f854d514c9f2a601b970e6a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 492, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_116
+    originalName: 
+    pivot: {x: 0.5714286, y: -2.0769231}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 452
+      width: 14
+      height: 13
+    spriteID: c5b346f873979bb4882d18c0bb755019
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_117
+    originalName: 
+    pivot: {x: 0.5714286, y: -2.0769231}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 206
+      y: 452
+      width: 14
+      height: 13
+    spriteID: d4aad1533b7dfe24ba273f8f7724e348
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 206, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_152
+    originalName: 
+    pivot: {x: 0.3888889, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 396
+      width: 18
+      height: 18
+    spriteID: fa49c34b21a8b0b478cccc5e884363e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 165, y: 396}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_153
+    originalName: 
+    pivot: {x: 0.8125, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 364
+      width: 16
+      height: 24
+    spriteID: c9504035639e5304a9c5edb50cb1af8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 136, y: 364}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_154
+    originalName: 
+    pivot: {x: 0.84210527, y: -1.0416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 364
+      width: 19
+      height: 24
+    spriteID: 8712f008e0b6c2f45ada6e9b2031d4e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 364}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_155
+    originalName: 
+    pivot: {x: 0.8636364, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 323
+      width: 22
+      height: 25
+    spriteID: 5ae5171efcc817c4199c41ceea6780e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 323}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_156
+    originalName: 
+    pivot: {x: 0.61904764, y: -1.1363636}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 485
+      y: 323
+      width: 21
+      height: 22
+    spriteID: f1edc4caf7a1b784b88f0cfa8de262f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 485, y: 323}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_191
+    originalName: 
+    pivot: {x: 0.26829267, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 294
+      y: 4
+      width: 41
+      height: 42
+    spriteID: 0ca0200f59641d546bd05a41a7dec73d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 294, y: 4}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_192
+    originalName: 
+    pivot: {x: 0.2826087, y: -0.09090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 4
+      width: 46
+      height: 44
+    spriteID: 2623d52fcf39abc4e99f562157ede9f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 4}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_193
+    originalName: 
+    pivot: {x: 0.3137255, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 4
+      width: 51
+      height: 42
+    spriteID: 844636c31e40e3044b33d44b66fb571f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 181, y: 4}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_194
+    originalName: 
+    pivot: {x: 0.3148148, y: -0.18604651}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 4
+      width: 54
+      height: 43
+    spriteID: 907d48211a39a584b9a7508a55df74d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 4}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_195
+    originalName: 
+    pivot: {x: 0.25490198, y: -0.13043478}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 51
+      height: 46
+    spriteID: 641b3b15c92b6ee4a830d58c1c0a796d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_196
+    originalName: 
+    pivot: {x: 0.1875, y: -0.108695656}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 4
+      width: 48
+      height: 46
+    spriteID: 4972f7a903f05d141a63a61ebdcfb7c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 4}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_198
+    originalName: 
+    pivot: {x: 0.3125, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 216
+      y: 429
+      width: 16
+      height: 15
+    spriteID: 78d8693de12bec3408dc6184e9093f2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 216, y: 429}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_199
+    originalName: 
+    pivot: {x: 0.375, y: -1.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 452
+      width: 16
+      height: 16
+    spriteID: 8fe5dbf2e2e14a84f8e11bd1fe2746aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_210
+    originalName: 
+    pivot: {x: 0.51724136, y: -1.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 322
+      y: 296
+      width: 29
+      height: 15
+    spriteID: a3dd08f7a2c75c94eb2bfaa968d8ec0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 322, y: 296}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_110
+    originalName: 
+    pivot: {x: 0.5714286, y: -2.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 127
+      y: 479
+      width: 14
+      height: 12
+    spriteID: 7ae7d996a7cdaba44b426968cac0f30b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 479}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_111
+    originalName: 
+    pivot: {x: 0.5714286, y: -2.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 479
+      width: 14
+      height: 12
+    spriteID: 1fd1c0915a9843042aa13c182e2f86cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 479}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_112
+    originalName: 
+    pivot: {x: 0.5625, y: -2.4545455}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 454
+      y: 452
+      width: 16
+      height: 11
+    spriteID: ef3956e2330e39f41a7003aaee7d7eaa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 454, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_113
+    originalName: 
+    pivot: {x: 0.5625, y: -2.4545455}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 478
+      y: 452
+      width: 16
+      height: 11
+    spriteID: ecae01b4bda9de24680edacb3b30d174
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 478, y: 452}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_114
+    originalName: 
+    pivot: {x: 0.5714286, y: -2.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 479
+      width: 14
+      height: 12
+    spriteID: c0a19933698679b4ba8758afd1162aac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 479}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_115
+    originalName: 
+    pivot: {x: 0.5714286, y: -2.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 193
+      y: 479
+      width: 14
+      height: 12
+    spriteID: 3fde6a0278feaf94a9a1016f6495704a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 193, y: 479}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_43
+    originalName: 
+    pivot: {x: 0.54545456, y: -3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 269
+      y: 494
+      width: 11
+      height: 11
+    spriteID: 606036861b721404cb088b3779852bd2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 269, y: 494}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_44
+    originalName: 
+    pivot: {x: 0.54545456, y: -3.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 494
+      width: 11
+      height: 10
+    spriteID: 46223f7b6d87f444997dcc2e4ead30a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 494}
+  - name: sunnyside_world_chatacter_anim_v0.04_Frame_45
+    originalName: 
+    pivot: {x: 0.54545456, y: -3.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 324
+      y: 494
+      width: 11
+      height: 10
+    spriteID: 34b7fce3c8981c64a9c3852e7c910adb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 324, y: 494}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -644087802
+    name: sunnyside_world_chatacter_anim_v0.04
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 57
+        y: 15
+        width: 16
+        height: 25
+      spriteId: f8405fdd2d39a224ab28062376debbfb
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 57
+        y: 15
+        width: 17
+        height: 25
+      spriteId: 34817798594fdfe44ba33b925534e5e2
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 57
+        y: 15
+        width: 17
+        height: 24
+      spriteId: bef971ed1ec3c41439bebe744295a084
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 57
+        y: 15
+        width: 17
+        height: 24
+      spriteId: e40f3829771a2c44b8d134742d167a22
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 57
+        y: 15
+        width: 15
+        height: 24
+      spriteId: 2f6e1ab07ebc5fd4095d2c02890b393e
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 57
+        y: 15
+        width: 15
+        height: 24
+      spriteId: bee37526992bb824d8d9db0fb5860c8b
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 57
+        y: 15
+        width: 15
+        height: 24
+      spriteId: a8983970295fadc4da98d7e9bca5482f
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 57
+        y: 15
+        width: 15
+        height: 25
+      spriteId: ec2adbd269ef17a489c8e30f96650dcb
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_92
+      frameIndex: 92
+      cellRect:
+        x: 56
+        y: 25
+        width: 44
+        height: 19
+      spriteId: 3ca1e52fe9f15cf42946ab5cf4d02e50
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_93
+      frameIndex: 93
+      cellRect:
+        x: 56
+        y: 25
+        width: 47
+        height: 22
+      spriteId: 3fe109ebd47034e409daab72f7e6c4f9
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_94
+      frameIndex: 94
+      cellRect:
+        x: 58
+        y: 25
+        width: 47
+        height: 24
+      spriteId: 18fbd1a8f8b0baa429322a5f379cd1db
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_102
+      frameIndex: 102
+      cellRect:
+        x: 56
+        y: 25
+        width: 44
+        height: 20
+      spriteId: 74c2396b5c35a7348856f9470afd50cd
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_103
+      frameIndex: 103
+      cellRect:
+        x: 56
+        y: 25
+        width: 47
+        height: 22
+      spriteId: 139d0fec1b4a63a428d194525814dc4e
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_104
+      frameIndex: 104
+      cellRect:
+        x: 58
+        y: 25
+        width: 47
+        height: 24
+      spriteId: 400a13bd3e6c973488ef712421f43ecb
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_136
+      frameIndex: 136
+      cellRect:
+        x: 56
+        y: 24
+        width: 43
+        height: 26
+      spriteId: 08c4c450b09ee664783ddd9553bbb8ed
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_137
+      frameIndex: 137
+      cellRect:
+        x: 56
+        y: 24
+        width: 47
+        height: 20
+      spriteId: 0b848dcd374f90f4bafee9f0aadf4085
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_138
+      frameIndex: 138
+      cellRect:
+        x: 55
+        y: 25
+        width: 51
+        height: 22
+      spriteId: f86f9ad7d3ef6a94c93462022899539f
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_139
+      frameIndex: 139
+      cellRect:
+        x: 55
+        y: 25
+        width: 52
+        height: 24
+      spriteId: 16f5c70e0a379414493effa4de9042ca
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_146
+      frameIndex: 146
+      cellRect:
+        x: 57
+        y: 24
+        width: 43
+        height: 31
+      spriteId: 2bda1b17b768ce045bf9563798a7acb9
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_147
+      frameIndex: 147
+      cellRect:
+        x: 57
+        y: 24
+        width: 46
+        height: 23
+      spriteId: 928c0195508e4614395d2834b2dd5fd4
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_148
+      frameIndex: 148
+      cellRect:
+        x: 58
+        y: 24
+        width: 47
+        height: 25
+      spriteId: d92db5f14384331409315aebaf11e3ba
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 54
+        y: 25
+        width: 20
+        height: 13
+      spriteId: d09139f973881804db8dd21287758330
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 53
+        y: 25
+        width: 22
+        height: 10
+      spriteId: 8ddb46d1a1e3f3149935dabc92b593b4
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 55
+        y: 25
+        width: 18
+        height: 10
+      spriteId: e5f09dbb706f524499dc110a64c582e4
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 55
+        y: 24
+        width: 15
+        height: 16
+      spriteId: cfacbc70d99cfac49a75817bed2300a2
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 53
+        y: 23
+        width: 17
+        height: 15
+      spriteId: 133e8cd01840f1647adb724a96ae1f17
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 51
+        y: 25
+        width: 18
+        height: 15
+      spriteId: e11c4bd7ebc54ad42a3a8b9a7f44ec89
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 50
+        y: 27
+        width: 18
+        height: 15
+      spriteId: 06bf9bdf52eb1404c83d9163237e83ab
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 54
+        y: 25
+        width: 20
+        height: 18
+      spriteId: f919c6dcc5767c54a8fb5d31bac6fed3
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 53
+        y: 25
+        width: 22
+        height: 18
+      spriteId: 10f61d10292c1b44bb3a67351ab9ce3e
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 55
+        y: 25
+        width: 18
+        height: 16
+      spriteId: 18da3d5381be28340b8cbfca33f67494
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 55
+        y: 25
+        width: 15
+        height: 13
+      spriteId: 07ebec9c8aacf8f4faf7e85905fef774
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 55
+        y: 24
+        width: 17
+        height: 16
+      spriteId: c34823b67efa2594fbf3f7daadee4e85
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: 53
+        y: 23
+        width: 19
+        height: 17
+      spriteId: 9d326fcd35da63e4ca839bf5feb863ce
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_80
+      frameIndex: 80
+      cellRect:
+        x: 51
+        y: 25
+        width: 21
+        height: 15
+      spriteId: 172ac9e9a88b11c498593e4aefbd8d7e
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_81
+      frameIndex: 81
+      cellRect:
+        x: 50
+        y: 25
+        width: 22
+        height: 15
+      spriteId: e8bb2ddcaf12a784d9879f19c3ea47ac
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_120
+      frameIndex: 120
+      cellRect:
+        x: 54
+        y: 25
+        width: 34
+        height: 19
+      spriteId: 64d4ba356d2178040ab63b86c00cb2dd
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_121
+      frameIndex: 121
+      cellRect:
+        x: 54
+        y: 25
+        width: 33
+        height: 19
+      spriteId: 3fdf439aaa375c744a4c0df82d96848a
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_122
+      frameIndex: 122
+      cellRect:
+        x: 54
+        y: 25
+        width: 32
+        height: 19
+      spriteId: f8938ebac5424574e80f5224c264506e
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_125
+      frameIndex: 125
+      cellRect:
+        x: 36
+        y: 24
+        width: 33
+        height: 20
+      spriteId: bf0c54222dcda1a4db795ed545dd8fba
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_126
+      frameIndex: 126
+      cellRect:
+        x: 34
+        y: 23
+        width: 35
+        height: 21
+      spriteId: cdac660031b1c2843897484b42f167be
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_127
+      frameIndex: 127
+      cellRect:
+        x: 32
+        y: 25
+        width: 37
+        height: 19
+      spriteId: 685404b2783c2004587a03bbdfc18e55
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_128
+      frameIndex: 128
+      cellRect:
+        x: 31
+        y: 25
+        width: 38
+        height: 19
+      spriteId: 54c00ea203b5a3a4bbed7fdffb949c47
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_140
+      frameIndex: 140
+      cellRect:
+        x: 54
+        y: 25
+        width: 48
+        height: 19
+      spriteId: 922ec54fdaa9c8348b80577eb0480312
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 56
+        y: 25
+        width: 16
+        height: 12
+      spriteId: 36447e18b72c8924a8870695bffa643c
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 55
+        y: 25
+        width: 18
+        height: 7
+      spriteId: f73fbfc68cef26e40895f2a4abf4032a
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 50
+        y: 25
+        width: 18
+        height: 15
+      spriteId: 95029a9fac9ae404fa3a51cc66057f92
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 56
+        y: 25
+        width: 16
+        height: 16
+      spriteId: 190b022cc4d47c44786effe5a56d3306
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 55
+        y: 25
+        width: 18
+        height: 17
+      spriteId: e1fdafb8269a7ef48a3963a8264d1747
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_82
+      frameIndex: 82
+      cellRect:
+        x: 50
+        y: 25
+        width: 26
+        height: 10
+      spriteId: 03ee345ed15746e4aa036f1fc67b19a8
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_83
+      frameIndex: 83
+      cellRect:
+        x: 50
+        y: 25
+        width: 28
+        height: 12
+      spriteId: 8d9351a87200999429864b5e52ed6f57
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_123
+      frameIndex: 123
+      cellRect:
+        x: 44
+        y: 25
+        width: 35
+        height: 19
+      spriteId: b77ce3c48617ef5468f66902b37eba47
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_129
+      frameIndex: 129
+      cellRect:
+        x: 31
+        y: 25
+        width: 38
+        height: 19
+      spriteId: ac24d4b3f282a2b4b9e7c1a16326b4be
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_130
+      frameIndex: 130
+      cellRect:
+        x: 31
+        y: 25
+        width: 38
+        height: 19
+      spriteId: 4bde681707b42e44985c5446d6bcdeda
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 54
+        y: 25
+        width: 14
+        height: 12
+      spriteId: eedaa7078f1d25044b5eab963294d494
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 53
+        y: 25
+        width: 16
+        height: 15
+      spriteId: 10933cc7eb33b484a99cdd02e589f12b
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 53
+        y: 27
+        width: 17
+        height: 15
+      spriteId: 931611dc85660da4bb0c87920cece709
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_84
+      frameIndex: 84
+      cellRect:
+        x: 56
+        y: 25
+        width: 22
+        height: 14
+      spriteId: b6f6607ba29111448b54b6850b25de45
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_85
+      frameIndex: 85
+      cellRect:
+        x: 57
+        y: 25
+        width: 20
+        height: 15
+      spriteId: 34a0d970564b8734c8c0eac196246ae4
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_124
+      frameIndex: 124
+      cellRect:
+        x: 39
+        y: 25
+        width: 34
+        height: 19
+      spriteId: 6fc3e0f5f17791d46aba99d6c6d193c6
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_91
+      frameIndex: 91
+      cellRect:
+        x: 44
+        y: 25
+        width: 39
+        height: 25
+      spriteId: b684c66153d3f9e44b9c8d4b327e2804
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_101
+      frameIndex: 101
+      cellRect:
+        x: 44
+        y: 25
+        width: 42
+        height: 25
+      spriteId: 25c443409d10554419a8b68056739095
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_145
+      frameIndex: 145
+      cellRect:
+        x: 47
+        y: 25
+        width: 39
+        height: 31
+      spriteId: c2c8300baaa2d584989dd1a818a5a112
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_205
+      frameIndex: 205
+      cellRect:
+        x: 58
+        y: 25
+        width: 22
+        height: 18
+      spriteId: 1c6b7ba1e964cb748be1ce441f47068a
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_206
+      frameIndex: 206
+      cellRect:
+        x: 57
+        y: 25
+        width: 23
+        height: 24
+      spriteId: dbc041fb9a6091d42a083eb5c466f952
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_207
+      frameIndex: 207
+      cellRect:
+        x: 54
+        y: 25
+        width: 20
+        height: 27
+      spriteId: d67c401935dc4104588ae6db81e31a7c
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_133
+      frameIndex: 133
+      cellRect:
+        x: 42
+        y: 25
+        width: 28
+        height: 23
+      spriteId: b64aa623902f70044bfed56b2626ce4c
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_134
+      frameIndex: 134
+      cellRect:
+        x: 45
+        y: 25
+        width: 27
+        height: 30
+      spriteId: 55ca469f776262449bcda7af660a808e
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_135
+      frameIndex: 135
+      cellRect:
+        x: 49
+        y: 25
+        width: 42
+        height: 26
+      spriteId: 369f5d8bf5b5c504baa6d099461c14b9
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 57
+        y: 25
+        width: 12
+        height: 14
+      spriteId: a248adc03714ca54bb06eea18e58d86a
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 57
+        y: 25
+        width: 12
+        height: 13
+      spriteId: 6883dcf988a7a704590672e652005aa6
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 58
+        y: 25
+        width: 10
+        height: 14
+      spriteId: 50a3d0bbb67c5e14fb5f2a579a68f315
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 59
+        y: 25
+        width: 9
+        height: 15
+      spriteId: 4905501fe341ef44e878203e8f31dd51
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 59
+        y: 25
+        width: 9
+        height: 14
+      spriteId: 45a6f44a9a27d1e48acb6a5e3533dd6d
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 59
+        y: 25
+        width: 9
+        height: 13
+      spriteId: b128710883bbf61459b2a5ba84273f77
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 58
+        y: 25
+        width: 10
+        height: 14
+      spriteId: b7ec2bc43f8cc744597eb727d895aeac
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 57
+        y: 25
+        width: 12
+        height: 15
+      spriteId: b355a23745cb28f48893101183ecff05
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 55
+        y: 25
+        width: 17
+        height: 32
+      spriteId: d2a814f8a67744d4382645d901142c45
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 55
+        y: 25
+        width: 17
+        height: 32
+      spriteId: 7f83e538364ab29479616f135c289877
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 56
+        y: 25
+        width: 16
+        height: 32
+      spriteId: 466b718e567466f42ab41ffcf3c6a1b0
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 56
+        y: 25
+        width: 16
+        height: 33
+      spriteId: 8667f07a02ef1514da57f543b6e36d19
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 56
+        y: 25
+        width: 16
+        height: 32
+      spriteId: 7e4f1e2c78b270f428790535a6ad3acb
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 56
+        y: 25
+        width: 16
+        height: 32
+      spriteId: ee758a4c91426e24d9bcfbd01d295f54
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 55
+        y: 25
+        width: 17
+        height: 32
+      spriteId: 9e8cb47ff5a88504bb738e2f5bb8c47a
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 55
+        y: 25
+        width: 17
+        height: 33
+      spriteId: 519322df417753d48bf42c4842f1d074
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 57
+        y: 25
+        width: 12
+        height: 15
+      spriteId: b6474302a2f2f62439be4185fda114ed
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 57
+        y: 25
+        width: 12
+        height: 15
+      spriteId: b3fde026947b3e244b5114bcddbe47ea
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 57
+        y: 25
+        width: 12
+        height: 15
+      spriteId: 69e5a50a72e028e49b1ffc1b1540b604
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 56
+        y: 25
+        width: 14
+        height: 14
+      spriteId: 4e58bc33bf8d4204983b57f6e905a967
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 56
+        y: 25
+        width: 14
+        height: 14
+      spriteId: 5cda081b1887a424389d62c841ab7156
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 57
+        y: 25
+        width: 12
+        height: 14
+      spriteId: 94a4b3990035fa5489bb51504cc34a3d
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 57
+        y: 25
+        width: 12
+        height: 14
+      spriteId: e99f26779d7173f478e692586e2a1e77
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 57
+        y: 25
+        width: 12
+        height: 14
+      spriteId: 420b2ddc2e6e6ad47a331893c3d8661c
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 57
+        y: 25
+        width: 12
+        height: 15
+      spriteId: a65c73d8f29d8f642964436bcc8f1c03
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 59
+        y: 23
+        width: 22
+        height: 17
+      spriteId: f6fc69c62ed4f024491655671e5418ee
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 59
+        y: 24
+        width: 23
+        height: 16
+      spriteId: ea5a7b40f8fd3bb40beb91bd3dce82cf
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 59
+        y: 22
+        width: 25
+        height: 18
+      spriteId: 29a919fe3e210664282a9b1d654a36b9
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 59
+        y: 22
+        width: 27
+        height: 18
+      spriteId: e01a7595357976f43a74089ac6754805
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 59
+        y: 23
+        width: 28
+        height: 17
+      spriteId: a8513932e54abd94d9a3470d8de8871a
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 57
+        y: 25
+        width: 12
+        height: 15
+      spriteId: 32cbc739ea560e84cbc4a52f5d652dab
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 55
+        y: 25
+        width: 14
+        height: 19
+      spriteId: 22af33e14f815324580c5a18f71a4e50
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 54
+        y: 25
+        width: 16
+        height: 18
+      spriteId: b566f5984794f994a89d0fe2f6560b7c
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 54
+        y: 25
+        width: 16
+        height: 16
+      spriteId: c26a4096ad5e128478dde695eadb2158
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 55
+        y: 25
+        width: 16
+        height: 15
+      spriteId: 26692b838dc3af148a89045fbf6f6180
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 57
+        y: 25
+        width: 13
+        height: 14
+      spriteId: 5bdc76204f6de3a4db9566fea271a32f
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 57
+        y: 25
+        width: 13
+        height: 15
+      spriteId: c1022e804be51034ab8b157e299f6f67
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 57
+        y: 25
+        width: 12
+        height: 15
+      spriteId: ad351aa5894e484459207b748c768fe1
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 57
+        y: 25
+        width: 13
+        height: 18
+      spriteId: 68f248289f5d71a479898da7f77c45b2
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 57
+        y: 25
+        width: 12
+        height: 15
+      spriteId: fb271e3ff15ef7d4f8c1489f13ec40d6
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 57
+        y: 25
+        width: 13
+        height: 18
+      spriteId: 65ff6b99e7dedc84b8bd44c8446d3f1b
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 57
+        y: 25
+        width: 12
+        height: 15
+      spriteId: 474d8ba55a94a0c4f824d0f044af9ac0
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 57
+        y: 25
+        width: 13
+        height: 18
+      spriteId: 4c6799453d897b54aaf5c8f89c4cb962
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 57
+        y: 25
+        width: 12
+        height: 15
+      spriteId: 0d5311c3d378fbe4dae7ab00d74a8ff6
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 55
+        y: 25
+        width: 15
+        height: 13
+      spriteId: 88096984a61e6ae4abaae6b82e5306d2
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 57
+        y: 25
+        width: 12
+        height: 15
+      spriteId: a0bb4d712fc30db44b99c3c7093f43d4
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 57
+        y: 25
+        width: 12
+        height: 15
+      spriteId: 5aa0b4296a9e29d448403735cc411205
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_86
+      frameIndex: 86
+      cellRect:
+        x: 55
+        y: 25
+        width: 15
+        height: 21
+      spriteId: e8f9d562da9da2f43a0bd19af74bb66e
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_87
+      frameIndex: 87
+      cellRect:
+        x: 51
+        y: 25
+        width: 19
+        height: 22
+      spriteId: 9acf7a3fedf92a94b8c1b094841d13cc
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_88
+      frameIndex: 88
+      cellRect:
+        x: 44
+        y: 25
+        width: 25
+        height: 20
+      spriteId: b64735037d5331e46952db585fc04d34
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_89
+      frameIndex: 89
+      cellRect:
+        x: 41
+        y: 25
+        width: 27
+        height: 18
+      spriteId: 203adbb053780b5479d9666194f2e997
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_90
+      frameIndex: 90
+      cellRect:
+        x: 41
+        y: 25
+        width: 26
+        height: 18
+      spriteId: 78a9979d54c3ce24089532dfa912a064
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_95
+      frameIndex: 95
+      cellRect:
+        x: 58
+        y: 25
+        width: 23
+        height: 18
+      spriteId: a7d90d02d6b01e54e940f6046c0ddaec
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_96
+      frameIndex: 96
+      cellRect:
+        x: 50
+        y: 25
+        width: 20
+        height: 20
+      spriteId: 2ff5c65a73c3c6c4787213d870da0db9
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_97
+      frameIndex: 97
+      cellRect:
+        x: 46
+        y: 25
+        width: 24
+        height: 21
+      spriteId: cac98589de47dee45bb274b2f71c1346
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_98
+      frameIndex: 98
+      cellRect:
+        x: 42
+        y: 25
+        width: 27
+        height: 18
+      spriteId: e99d1960935703049851914c4468c2ea
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_99
+      frameIndex: 99
+      cellRect:
+        x: 41
+        y: 22
+        width: 27
+        height: 21
+      spriteId: effc1c137c8de3242804d693517c1e61
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_100
+      frameIndex: 100
+      cellRect:
+        x: 41
+        y: 20
+        width: 26
+        height: 23
+      spriteId: 2648462bad0fc0249837f84d7e982d3a
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_105
+      frameIndex: 105
+      cellRect:
+        x: 58
+        y: 25
+        width: 26
+        height: 18
+      spriteId: 6e778326a4ad29249a90272f42eb1769
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_118
+      frameIndex: 118
+      cellRect:
+        x: 54
+        y: 25
+        width: 33
+        height: 19
+      spriteId: 670a957723cd3e244a51a6300ad91d4a
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_119
+      frameIndex: 119
+      cellRect:
+        x: 54
+        y: 25
+        width: 32
+        height: 19
+      spriteId: 41cc4fb4918811c48b2c61c7a6bd2455
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_131
+      frameIndex: 131
+      cellRect:
+        x: 40
+        y: 25
+        width: 30
+        height: 19
+      spriteId: 32335867124c1664582239719989ac90
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_132
+      frameIndex: 132
+      cellRect:
+        x: 40
+        y: 25
+        width: 30
+        height: 19
+      spriteId: 6f5a12889468ca14d86fed3eadc3f268
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_141
+      frameIndex: 141
+      cellRect:
+        x: 53
+        y: 25
+        width: 16
+        height: 19
+      spriteId: 84b0b3d18444d144189dad03860c329f
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_142
+      frameIndex: 142
+      cellRect:
+        x: 46
+        y: 25
+        width: 24
+        height: 22
+      spriteId: bbafde7d24516ce4aa7a174993b8e411
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_143
+      frameIndex: 143
+      cellRect:
+        x: 41
+        y: 25
+        width: 28
+        height: 19
+      spriteId: 0e26927fa6b6b9c46988a25bd119301d
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_144
+      frameIndex: 144
+      cellRect:
+        x: 41
+        y: 25
+        width: 27
+        height: 14
+      spriteId: f8b1abb678d8fb7459fe9e7eb8e579ff
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_149
+      frameIndex: 149
+      cellRect:
+        x: 57
+        y: 25
+        width: 21
+        height: 16
+      spriteId: 9b8382cfb67e6df409a1e9907f4d2260
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_150
+      frameIndex: 150
+      cellRect:
+        x: 53
+        y: 25
+        width: 16
+        height: 19
+      spriteId: 27713218337dcc942ae0b056f20d4d26
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_151
+      frameIndex: 151
+      cellRect:
+        x: 59
+        y: 23
+        width: 23
+        height: 17
+      spriteId: 42b2a371e6f02c14d9364080512a3fb1
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_157
+      frameIndex: 157
+      cellRect:
+        x: 59
+        y: 25
+        width: 25
+        height: 21
+      spriteId: c6fc2420530c9764c8b369b841c881af
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_158
+      frameIndex: 158
+      cellRect:
+        x: 60
+        y: 23
+        width: 33
+        height: 22
+      spriteId: af601a4b333c7f44cb60ecc12834b27b
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_159
+      frameIndex: 159
+      cellRect:
+        x: 59
+        y: 17
+        width: 37
+        height: 23
+      spriteId: 9ae441b5bc279c24f8256edebfff0820
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_160
+      frameIndex: 160
+      cellRect:
+        x: 59
+        y: 6
+        width: 36
+        height: 34
+      spriteId: 2bb4359b4ac5b0e4fadbf90c6afcd754
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_161
+      frameIndex: 161
+      cellRect:
+        x: 59
+        y: 3
+        width: 38
+        height: 37
+      spriteId: a4e9220a9579b4f41b4c1410bdf0c9df
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_162
+      frameIndex: 162
+      cellRect:
+        x: 59
+        y: 3
+        width: 40
+        height: 37
+      spriteId: da9df8c09afeef34c8a84b643c675ec5
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_163
+      frameIndex: 163
+      cellRect:
+        x: 59
+        y: 2
+        width: 42
+        height: 38
+      spriteId: c55750114bebb7c4aa73c9b323cc7070
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_164
+      frameIndex: 164
+      cellRect:
+        x: 59
+        y: 2
+        width: 43
+        height: 38
+      spriteId: 473c0408b66ff5d4f9286438458aff32
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_165
+      frameIndex: 165
+      cellRect:
+        x: 59
+        y: 3
+        width: 44
+        height: 37
+      spriteId: 3323f511a03ed504bbc07cf8bb3cb3de
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_166
+      frameIndex: 166
+      cellRect:
+        x: 57
+        y: 3
+        width: 37
+        height: 37
+      spriteId: 533d2b9849f2f3f46b765925107f4224
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_167
+      frameIndex: 167
+      cellRect:
+        x: 57
+        y: 3
+        width: 37
+        height: 37
+      spriteId: c3c600d931735e149a2ea7bad8d7015e
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_168
+      frameIndex: 168
+      cellRect:
+        x: 57
+        y: 3
+        width: 37
+        height: 37
+      spriteId: 0d64004effa710c428f41261126f5c1d
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_169
+      frameIndex: 169
+      cellRect:
+        x: 56
+        y: 3
+        width: 38
+        height: 36
+      spriteId: 10be6f152504f234890e812377cac1ca
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_170
+      frameIndex: 170
+      cellRect:
+        x: 56
+        y: 3
+        width: 38
+        height: 36
+      spriteId: 8f1db63e65dcc3344bbe4dd1ac70b78c
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_171
+      frameIndex: 171
+      cellRect:
+        x: 57
+        y: 3
+        width: 37
+        height: 36
+      spriteId: 985b8f37edb3cb547bbe147a514f338e
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_172
+      frameIndex: 172
+      cellRect:
+        x: 57
+        y: 3
+        width: 37
+        height: 36
+      spriteId: 7c52ed6ad9b49b242b29e26cee38b1be
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_173
+      frameIndex: 173
+      cellRect:
+        x: 57
+        y: 3
+        width: 37
+        height: 36
+      spriteId: 44e31c3d0cbf7954cbb437692a9e64fc
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_174
+      frameIndex: 174
+      cellRect:
+        x: 57
+        y: 3
+        width: 37
+        height: 37
+      spriteId: fcde2e6f4ab55394eafaa6be17800b3d
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_175
+      frameIndex: 175
+      cellRect:
+        x: 59
+        y: 3
+        width: 35
+        height: 37
+      spriteId: 24fbc0e3f23e9e8469c7924bdb2fb945
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_176
+      frameIndex: 176
+      cellRect:
+        x: 58
+        y: 3
+        width: 36
+        height: 37
+      spriteId: cc53b9166fe66bc42bdb951e71da7938
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_177
+      frameIndex: 177
+      cellRect:
+        x: 57
+        y: 3
+        width: 37
+        height: 37
+      spriteId: 0ff460eb391c7344ab9e5a88df417a0e
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_178
+      frameIndex: 178
+      cellRect:
+        x: 56
+        y: 3
+        width: 38
+        height: 37
+      spriteId: 3875c579ce869da4b91ee14374613e7a
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_179
+      frameIndex: 179
+      cellRect:
+        x: 56
+        y: 3
+        width: 38
+        height: 37
+      spriteId: febad3f1c9206ec468650fca33246293
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_180
+      frameIndex: 180
+      cellRect:
+        x: 57
+        y: 3
+        width: 37
+        height: 37
+      spriteId: 0a6178149dfc59a4f817ecb0841501b0
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_181
+      frameIndex: 181
+      cellRect:
+        x: 58
+        y: 3
+        width: 36
+        height: 37
+      spriteId: 5c1db7621c98b7746a6969655f3a3177
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_182
+      frameIndex: 182
+      cellRect:
+        x: 59
+        y: 3
+        width: 35
+        height: 36
+      spriteId: 509e4edf54c850a428e158369a457f95
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_183
+      frameIndex: 183
+      cellRect:
+        x: 60
+        y: 3
+        width: 34
+        height: 36
+      spriteId: c3962266036025e44b74c71a4119474f
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_184
+      frameIndex: 184
+      cellRect:
+        x: 60
+        y: 3
+        width: 34
+        height: 36
+      spriteId: 9aa0ab74aed6db9478e7fcb84df1cb8e
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_185
+      frameIndex: 185
+      cellRect:
+        x: 60
+        y: 3
+        width: 34
+        height: 36
+      spriteId: bb645c438c76681499dc679197245f0a
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_186
+      frameIndex: 186
+      cellRect:
+        x: 59
+        y: 3
+        width: 35
+        height: 37
+      spriteId: d82da8bece8061d4dbeee4be7c589534
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_187
+      frameIndex: 187
+      cellRect:
+        x: 59
+        y: 3
+        width: 35
+        height: 37
+      spriteId: 0d099637f00ba98488b8f78dd9b3dddd
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_188
+      frameIndex: 188
+      cellRect:
+        x: 58
+        y: 3
+        width: 36
+        height: 37
+      spriteId: 0dd26c1133a2d3f4d8518def84036db8
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_189
+      frameIndex: 189
+      cellRect:
+        x: 58
+        y: 3
+        width: 36
+        height: 37
+      spriteId: 3e332c66194917044a77a01aca9d1b18
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_190
+      frameIndex: 190
+      cellRect:
+        x: 57
+        y: 3
+        width: 37
+        height: 37
+      spriteId: 69d1588061a6259449797d883a642232
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_197
+      frameIndex: 197
+      cellRect:
+        x: 59
+        y: 24
+        width: 25
+        height: 16
+      spriteId: ebc1875e3c9ae4a4da09dbece5f9984f
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_200
+      frameIndex: 200
+      cellRect:
+        x: 59
+        y: 24
+        width: 20
+        height: 17
+      spriteId: 9896625bd0b50b84bb4e9b38e9ad9ef1
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_201
+      frameIndex: 201
+      cellRect:
+        x: 60
+        y: 24
+        width: 21
+        height: 16
+      spriteId: 8e3675ab5ab39a241861526ff1f9014e
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_202
+      frameIndex: 202
+      cellRect:
+        x: 60
+        y: 24
+        width: 22
+        height: 15
+      spriteId: a888f039c24299b4d9efb59379445457
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_203
+      frameIndex: 203
+      cellRect:
+        x: 59
+        y: 24
+        width: 23
+        height: 16
+      spriteId: 205b2548f0cfe514888a97c33b3fa8f6
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_204
+      frameIndex: 204
+      cellRect:
+        x: 59
+        y: 24
+        width: 23
+        height: 16
+      spriteId: 4b850a89727d31d40a0f827961df5d10
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_208
+      frameIndex: 208
+      cellRect:
+        x: 50
+        y: 25
+        width: 22
+        height: 24
+      spriteId: b9f5c817a9181dd44a02d4909eb30b1c
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_209
+      frameIndex: 209
+      cellRect:
+        x: 49
+        y: 25
+        width: 28
+        height: 22
+      spriteId: 3ca69947b634c0b4294d4b983cfec0c8
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 57
+        y: 25
+        width: 13
+        height: 13
+      spriteId: 17402c3e13b6ce34785da81341538aa7
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_106
+      frameIndex: 106
+      cellRect:
+        x: 56
+        y: 27
+        width: 14
+        height: 14
+      spriteId: bba222f20b3d2c54c8e0836ddfa57dfc
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_107
+      frameIndex: 107
+      cellRect:
+        x: 56
+        y: 27
+        width: 14
+        height: 14
+      spriteId: 0242e1bc9ef5a2948b7fe2c4112adfc1
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_108
+      frameIndex: 108
+      cellRect:
+        x: 56
+        y: 27
+        width: 14
+        height: 13
+      spriteId: bf2d63a39058e9f448228ba7a9787700
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_109
+      frameIndex: 109
+      cellRect:
+        x: 56
+        y: 27
+        width: 14
+        height: 13
+      spriteId: b0f04f71f854d514c9f2a601b970e6a7
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_116
+      frameIndex: 116
+      cellRect:
+        x: 56
+        y: 27
+        width: 14
+        height: 13
+      spriteId: c5b346f873979bb4882d18c0bb755019
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_117
+      frameIndex: 117
+      cellRect:
+        x: 56
+        y: 27
+        width: 14
+        height: 13
+      spriteId: d4aad1533b7dfe24ba273f8f7724e348
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_152
+      frameIndex: 152
+      cellRect:
+        x: 57
+        y: 24
+        width: 18
+        height: 18
+      spriteId: fa49c34b21a8b0b478cccc5e884363e4
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_153
+      frameIndex: 153
+      cellRect:
+        x: 51
+        y: 24
+        width: 16
+        height: 24
+      spriteId: c9504035639e5304a9c5edb50cb1af8e
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_154
+      frameIndex: 154
+      cellRect:
+        x: 48
+        y: 25
+        width: 19
+        height: 24
+      spriteId: 8712f008e0b6c2f45ada6e9b2031d4e4
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_155
+      frameIndex: 155
+      cellRect:
+        x: 45
+        y: 25
+        width: 22
+        height: 25
+      spriteId: 5ae5171efcc817c4199c41ceea6780e6
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_156
+      frameIndex: 156
+      cellRect:
+        x: 51
+        y: 25
+        width: 21
+        height: 22
+      spriteId: f1edc4caf7a1b784b88f0cfa8de262f1
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_191
+      frameIndex: 191
+      cellRect:
+        x: 53
+        y: 3
+        width: 41
+        height: 42
+      spriteId: 0ca0200f59641d546bd05a41a7dec73d
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_192
+      frameIndex: 192
+      cellRect:
+        x: 51
+        y: 4
+        width: 46
+        height: 44
+      spriteId: 2623d52fcf39abc4e99f562157ede9f5
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_193
+      frameIndex: 193
+      cellRect:
+        x: 48
+        y: 7
+        width: 51
+        height: 42
+      spriteId: 844636c31e40e3044b33d44b66fb571f
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_194
+      frameIndex: 194
+      cellRect:
+        x: 47
+        y: 8
+        width: 54
+        height: 43
+      spriteId: 907d48211a39a584b9a7508a55df74d8
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_195
+      frameIndex: 195
+      cellRect:
+        x: 51
+        y: 6
+        width: 51
+        height: 46
+      spriteId: 641b3b15c92b6ee4a830d58c1c0a796d
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_196
+      frameIndex: 196
+      cellRect:
+        x: 55
+        y: 5
+        width: 48
+        height: 46
+      spriteId: 4972f7a903f05d141a63a61ebdcfb7c0
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_198
+      frameIndex: 198
+      cellRect:
+        x: 59
+        y: 25
+        width: 16
+        height: 15
+      spriteId: 78d8693de12bec3408dc6184e9093f2f
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_199
+      frameIndex: 199
+      cellRect:
+        x: 58
+        y: 25
+        width: 16
+        height: 16
+      spriteId: 8fe5dbf2e2e14a84f8e11bd1fe2746aa
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_210
+      frameIndex: 210
+      cellRect:
+        x: 49
+        y: 25
+        width: 29
+        height: 15
+      spriteId: a3dd08f7a2c75c94eb2bfaa968d8ec0b
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_110
+      frameIndex: 110
+      cellRect:
+        x: 56
+        y: 27
+        width: 14
+        height: 12
+      spriteId: 7ae7d996a7cdaba44b426968cac0f30b
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_111
+      frameIndex: 111
+      cellRect:
+        x: 56
+        y: 27
+        width: 14
+        height: 12
+      spriteId: 1fd1c0915a9843042aa13c182e2f86cd
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_112
+      frameIndex: 112
+      cellRect:
+        x: 55
+        y: 27
+        width: 16
+        height: 11
+      spriteId: ef3956e2330e39f41a7003aaee7d7eaa
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_113
+      frameIndex: 113
+      cellRect:
+        x: 55
+        y: 27
+        width: 16
+        height: 11
+      spriteId: ecae01b4bda9de24680edacb3b30d174
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_114
+      frameIndex: 114
+      cellRect:
+        x: 56
+        y: 27
+        width: 14
+        height: 12
+      spriteId: c0a19933698679b4ba8758afd1162aac
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_115
+      frameIndex: 115
+      cellRect:
+        x: 56
+        y: 27
+        width: 14
+        height: 12
+      spriteId: 3fde6a0278feaf94a9a1016f6495704a
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 58
+        y: 33
+        width: 11
+        height: 11
+      spriteId: 606036861b721404cb088b3779852bd2
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 58
+        y: 34
+        width: 11
+        height: 10
+      spriteId: 46223f7b6d87f444997dcc2e4ead30a9
+    - name: sunnyside_world_chatacter_anim_v0.04_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 58
+        y: 33
+        width: 11
+        height: 10
+      spriteId: 34b7fce3c8981c64a9c3852e7c910adb
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 128, y: 64}
