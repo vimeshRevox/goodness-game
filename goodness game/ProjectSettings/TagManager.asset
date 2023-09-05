@@ -47,3 +47,6 @@ TagManager:
   - name: Character
     uniqueID: 149837705
     locked: 0
+  - name: Walkable Areas
+    uniqueID: 1971903873
+    locked: 0
