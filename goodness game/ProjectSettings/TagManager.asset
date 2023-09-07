@@ -38,15 +38,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background
-    uniqueID: 3358624721
-    locked: 0
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Character
-    uniqueID: 149837705
-    locked: 0
-  - name: Walkable Areas
-    uniqueID: 1971903873
     locked: 0
