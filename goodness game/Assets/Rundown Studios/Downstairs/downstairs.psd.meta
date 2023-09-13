@@ -638,7 +638,7 @@ TextureImporter:
       name: downstairs_25
       rect:
         serializedVersion: 2
-        x: 80
+        x: 144
         y: 186
         width: 16
         height: 16
@@ -659,7 +659,7 @@ TextureImporter:
       name: downstairs_26
       rect:
         serializedVersion: 2
-        x: 96
+        x: 176
         y: 186
         width: 16
         height: 16
@@ -680,7 +680,7 @@ TextureImporter:
       name: downstairs_27
       rect:
         serializedVersion: 2
-        x: 112
+        x: 192
         y: 186
         width: 16
         height: 16
@@ -701,7 +701,7 @@ TextureImporter:
       name: downstairs_28
       rect:
         serializedVersion: 2
-        x: 128
+        x: 224
         y: 186
         width: 16
         height: 16
@@ -722,7 +722,7 @@ TextureImporter:
       name: downstairs_29
       rect:
         serializedVersion: 2
-        x: 144
+        x: 240
         y: 186
         width: 16
         height: 16
@@ -743,8 +743,8 @@ TextureImporter:
       name: downstairs_30
       rect:
         serializedVersion: 2
-        x: 176
-        y: 186
+        x: 0
+        y: 170
         width: 16
         height: 16
       alignment: 0
@@ -764,8 +764,8 @@ TextureImporter:
       name: downstairs_31
       rect:
         serializedVersion: 2
-        x: 192
-        y: 186
+        x: 144
+        y: 170
         width: 16
         height: 16
       alignment: 0
@@ -785,8 +785,8 @@ TextureImporter:
       name: downstairs_32
       rect:
         serializedVersion: 2
-        x: 224
-        y: 186
+        x: 176
+        y: 170
         width: 16
         height: 16
       alignment: 0
@@ -806,8 +806,8 @@ TextureImporter:
       name: downstairs_33
       rect:
         serializedVersion: 2
-        x: 240
-        y: 186
+        x: 192
+        y: 170
         width: 16
         height: 16
       alignment: 0
@@ -827,7 +827,7 @@ TextureImporter:
       name: downstairs_34
       rect:
         serializedVersion: 2
-        x: 0
+        x: 224
         y: 170
         width: 16
         height: 16
@@ -848,7 +848,7 @@ TextureImporter:
       name: downstairs_35
       rect:
         serializedVersion: 2
-        x: 80
+        x: 240
         y: 170
         width: 16
         height: 16
@@ -869,8 +869,8 @@ TextureImporter:
       name: downstairs_36
       rect:
         serializedVersion: 2
-        x: 96
-        y: 170
+        x: 176
+        y: 154
         width: 16
         height: 16
       alignment: 0
@@ -890,8 +890,8 @@ TextureImporter:
       name: downstairs_37
       rect:
         serializedVersion: 2
-        x: 112
-        y: 170
+        x: 192
+        y: 154
         width: 16
         height: 16
       alignment: 0
@@ -911,8 +911,8 @@ TextureImporter:
       name: downstairs_38
       rect:
         serializedVersion: 2
-        x: 128
-        y: 170
+        x: 224
+        y: 154
         width: 16
         height: 16
       alignment: 0
@@ -932,8 +932,8 @@ TextureImporter:
       name: downstairs_39
       rect:
         serializedVersion: 2
-        x: 144
-        y: 170
+        x: 240
+        y: 154
         width: 16
         height: 16
       alignment: 0
@@ -953,8 +953,8 @@ TextureImporter:
       name: downstairs_40
       rect:
         serializedVersion: 2
-        x: 176
-        y: 170
+        x: 48
+        y: 138
         width: 16
         height: 16
       alignment: 0
@@ -974,8 +974,8 @@ TextureImporter:
       name: downstairs_41
       rect:
         serializedVersion: 2
-        x: 192
-        y: 170
+        x: 64
+        y: 138
         width: 16
         height: 16
       alignment: 0
@@ -995,8 +995,8 @@ TextureImporter:
       name: downstairs_42
       rect:
         serializedVersion: 2
-        x: 224
-        y: 170
+        x: 96
+        y: 138
         width: 16
         height: 16
       alignment: 0
@@ -1016,8 +1016,8 @@ TextureImporter:
       name: downstairs_43
       rect:
         serializedVersion: 2
-        x: 240
-        y: 170
+        x: 112
+        y: 138
         width: 16
         height: 16
       alignment: 0
@@ -1037,8 +1037,8 @@ TextureImporter:
       name: downstairs_44
       rect:
         serializedVersion: 2
-        x: 176
-        y: 154
+        x: 128
+        y: 138
         width: 16
         height: 16
       alignment: 0
@@ -1058,8 +1058,8 @@ TextureImporter:
       name: downstairs_45
       rect:
         serializedVersion: 2
-        x: 192
-        y: 154
+        x: 144
+        y: 138
         width: 16
         height: 16
       alignment: 0
@@ -1079,8 +1079,8 @@ TextureImporter:
       name: downstairs_46
       rect:
         serializedVersion: 2
-        x: 224
-        y: 154
+        x: 176
+        y: 138
         width: 16
         height: 16
       alignment: 0
@@ -1100,8 +1100,8 @@ TextureImporter:
       name: downstairs_47
       rect:
         serializedVersion: 2
-        x: 240
-        y: 154
+        x: 192
+        y: 138
         width: 16
         height: 16
       alignment: 0
@@ -1121,7 +1121,7 @@ TextureImporter:
       name: downstairs_48
       rect:
         serializedVersion: 2
-        x: 48
+        x: 224
         y: 138
         width: 16
         height: 16
@@ -1142,7 +1142,7 @@ TextureImporter:
       name: downstairs_49
       rect:
         serializedVersion: 2
-        x: 64
+        x: 240
         y: 138
         width: 16
         height: 16
@@ -1163,8 +1163,8 @@ TextureImporter:
       name: downstairs_50
       rect:
         serializedVersion: 2
-        x: 96
-        y: 138
+        x: 0
+        y: 122
         width: 16
         height: 16
       alignment: 0
@@ -1184,8 +1184,8 @@ TextureImporter:
       name: downstairs_51
       rect:
         serializedVersion: 2
-        x: 112
-        y: 138
+        x: 16
+        y: 122
         width: 16
         height: 16
       alignment: 0
@@ -1205,8 +1205,8 @@ TextureImporter:
       name: downstairs_52
       rect:
         serializedVersion: 2
-        x: 128
-        y: 138
+        x: 96
+        y: 122
         width: 16
         height: 16
       alignment: 0
@@ -1226,8 +1226,8 @@ TextureImporter:
       name: downstairs_53
       rect:
         serializedVersion: 2
-        x: 144
-        y: 138
+        x: 112
+        y: 122
         width: 16
         height: 16
       alignment: 0
@@ -1247,8 +1247,8 @@ TextureImporter:
       name: downstairs_54
       rect:
         serializedVersion: 2
-        x: 176
-        y: 138
+        x: 128
+        y: 122
         width: 16
         height: 16
       alignment: 0
@@ -1268,8 +1268,8 @@ TextureImporter:
       name: downstairs_55
       rect:
         serializedVersion: 2
-        x: 192
-        y: 138
+        x: 144
+        y: 122
         width: 16
         height: 16
       alignment: 0
@@ -1289,8 +1289,8 @@ TextureImporter:
       name: downstairs_56
       rect:
         serializedVersion: 2
-        x: 224
-        y: 138
+        x: 176
+        y: 122
         width: 16
         height: 16
       alignment: 0
@@ -1310,8 +1310,8 @@ TextureImporter:
       name: downstairs_57
       rect:
         serializedVersion: 2
-        x: 240
-        y: 138
+        x: 192
+        y: 122
         width: 16
         height: 16
       alignment: 0
@@ -1331,7 +1331,7 @@ TextureImporter:
       name: downstairs_58
       rect:
         serializedVersion: 2
-        x: 96
+        x: 224
         y: 122
         width: 16
         height: 16
@@ -1352,7 +1352,7 @@ TextureImporter:
       name: downstairs_59
       rect:
         serializedVersion: 2
-        x: 112
+        x: 240
         y: 122
         width: 16
         height: 16
@@ -1373,8 +1373,8 @@ TextureImporter:
       name: downstairs_60
       rect:
         serializedVersion: 2
-        x: 128
-        y: 122
+        x: 0
+        y: 106
         width: 16
         height: 16
       alignment: 0
@@ -1394,8 +1394,8 @@ TextureImporter:
       name: downstairs_61
       rect:
         serializedVersion: 2
-        x: 144
-        y: 122
+        x: 16
+        y: 106
         width: 16
         height: 16
       alignment: 0
@@ -1416,7 +1416,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 176
-        y: 122
+        y: 106
         width: 16
         height: 16
       alignment: 0
@@ -1437,7 +1437,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 122
+        y: 106
         width: 16
         height: 16
       alignment: 0
@@ -1458,7 +1458,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 224
-        y: 122
+        y: 106
         width: 16
         height: 16
       alignment: 0
@@ -1479,7 +1479,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 240
-        y: 122
+        y: 106
         width: 16
         height: 16
       alignment: 0
@@ -1499,8 +1499,8 @@ TextureImporter:
       name: downstairs_66
       rect:
         serializedVersion: 2
-        x: 176
-        y: 106
+        x: 96
+        y: 90
         width: 16
         height: 16
       alignment: 0
@@ -1520,8 +1520,8 @@ TextureImporter:
       name: downstairs_67
       rect:
         serializedVersion: 2
-        x: 192
-        y: 106
+        x: 112
+        y: 90
         width: 16
         height: 16
       alignment: 0
@@ -1541,8 +1541,8 @@ TextureImporter:
       name: downstairs_68
       rect:
         serializedVersion: 2
-        x: 224
-        y: 106
+        x: 128
+        y: 90
         width: 16
         height: 16
       alignment: 0
@@ -1562,8 +1562,8 @@ TextureImporter:
       name: downstairs_69
       rect:
         serializedVersion: 2
-        x: 240
-        y: 106
+        x: 144
+        y: 90
         width: 16
         height: 16
       alignment: 0
@@ -1583,8 +1583,8 @@ TextureImporter:
       name: downstairs_70
       rect:
         serializedVersion: 2
-        x: 96
-        y: 90
+        x: 0
+        y: 74
         width: 16
         height: 16
       alignment: 0
@@ -1604,8 +1604,8 @@ TextureImporter:
       name: downstairs_71
       rect:
         serializedVersion: 2
-        x: 112
-        y: 90
+        x: 32
+        y: 74
         width: 16
         height: 16
       alignment: 0
@@ -1625,8 +1625,8 @@ TextureImporter:
       name: downstairs_72
       rect:
         serializedVersion: 2
-        x: 128
-        y: 90
+        x: 96
+        y: 74
         width: 16
         height: 16
       alignment: 0
@@ -1646,8 +1646,8 @@ TextureImporter:
       name: downstairs_73
       rect:
         serializedVersion: 2
-        x: 144
-        y: 90
+        x: 112
+        y: 74
         width: 16
         height: 16
       alignment: 0
@@ -1667,7 +1667,7 @@ TextureImporter:
       name: downstairs_74
       rect:
         serializedVersion: 2
-        x: 96
+        x: 128
         y: 74
         width: 16
         height: 16
@@ -1688,7 +1688,7 @@ TextureImporter:
       name: downstairs_75
       rect:
         serializedVersion: 2
-        x: 112
+        x: 144
         y: 74
         width: 16
         height: 16
@@ -1709,7 +1709,7 @@ TextureImporter:
       name: downstairs_76
       rect:
         serializedVersion: 2
-        x: 128
+        x: 208
         y: 74
         width: 16
         height: 16
@@ -1730,7 +1730,7 @@ TextureImporter:
       name: downstairs_77
       rect:
         serializedVersion: 2
-        x: 144
+        x: 224
         y: 74
         width: 16
         height: 16
@@ -1751,7 +1751,7 @@ TextureImporter:
       name: downstairs_78
       rect:
         serializedVersion: 2
-        x: 208
+        x: 240
         y: 74
         width: 16
         height: 16
@@ -1772,8 +1772,8 @@ TextureImporter:
       name: downstairs_79
       rect:
         serializedVersion: 2
-        x: 224
-        y: 74
+        x: 0
+        y: 58
         width: 16
         height: 16
       alignment: 0
@@ -1793,8 +1793,8 @@ TextureImporter:
       name: downstairs_80
       rect:
         serializedVersion: 2
-        x: 240
-        y: 74
+        x: 32
+        y: 58
         width: 16
         height: 16
       alignment: 0
