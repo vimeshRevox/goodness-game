@@ -821,6 +821,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Parent
       objectReference: {fileID: 0}
+    - target: {fileID: 3978196208514786372, guid: 4b262b2f60338944a941c235097ef792, type: 3}
+      propertyPath: m_TagString
+      value: Talk
+      objectReference: {fileID: 0}
     - target: {fileID: 8293362603901439291, guid: 4b262b2f60338944a941c235097ef792, type: 3}
       propertyPath: m_FlipX
       value: 1
@@ -836,7 +840,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3978196208514786372, guid: 4b262b2f60338944a941c235097ef792, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1866845908}
   m_SourcePrefab: {fileID: 100100000, guid: 4b262b2f60338944a941c235097ef792, type: 3}
 --- !u!1 &390077623
 GameObject:
@@ -1285,7 +1292,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -1310,7 +1317,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 9
+  orthographic size: 8.5
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1335,7 +1342,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.06, y: 0, z: -10}
+  m_LocalPosition: {x: -0.87, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8335,6 +8342,56 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb42bd157b0dfd14d8980b75f05a116a, type: 3}
+--- !u!1 &1866845907 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3978196208514786372, guid: 4b262b2f60338944a941c235097ef792, type: 3}
+  m_PrefabInstance: {fileID: 245258070}
+  m_PrefabAsset: {fileID: 0}
+--- !u!61 &1866845908
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1866845907}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 1.0671518, y: 0.17785859}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1.1875}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.61692, y: 1.5432172}
+  m_EdgeRadius: 0
 --- !u!1 &1947502762
 GameObject:
   m_ObjectHideFlags: 0

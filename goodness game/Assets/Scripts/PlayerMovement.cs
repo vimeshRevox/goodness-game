@@ -59,4 +59,39 @@ public class PlayerMovement : MonoBehaviour
             anim.SetBool("isRunning", false);            
         }
     }
+
+
+    //This is just for the video. PLS USE A BETTER WAY !!! 
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        SpriteRenderer talkSprite = new SpriteRenderer();
+        if (collision.gameObject.CompareTag("Talk"))
+        {
+            talkSprite = collision.gameObject.GetComponent<SpriteRenderer>();
+            StartCoroutine(FlipSprite());            
+        }
+
+        IEnumerator FlipSprite()
+        {
+            yield return new WaitForSeconds(1.0f);
+            talkSprite.flipX = false;
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        SpriteRenderer talkSprite = new SpriteRenderer();
+        if (collision.gameObject.CompareTag("Talk"))
+        {
+            talkSprite = collision.gameObject.GetComponent<SpriteRenderer>();
+            StartCoroutine(FlipSprite());
+        }
+
+        IEnumerator FlipSprite()
+        {
+            yield return new WaitForSeconds(1.0f);
+            talkSprite.flipX = true;
+        }
+    }
+
 }
