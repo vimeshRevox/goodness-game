@@ -73,7 +73,7 @@ public class PlayerMovement : MonoBehaviour
 
         IEnumerator FlipSprite()
         {
-            yield return new WaitForSeconds(1.0f);
+            yield return new WaitForSeconds(0.5f);
             talkSprite.flipX = false;
         }
     }
@@ -89,7 +89,7 @@ public class PlayerMovement : MonoBehaviour
 
         IEnumerator FlipSprite()
         {
-            yield return new WaitForSeconds(1.0f);
+            yield return new WaitForSeconds(0.5f);
             talkSprite.flipX = true;
         }
     }

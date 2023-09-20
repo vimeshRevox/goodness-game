@@ -1042,11 +1042,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2543089699095569443, guid: 4d9176af916ded34dbf2e333eebb405e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.02
+      value: -7.35
       objectReference: {fileID: 0}
     - target: {fileID: 2543089699095569443, guid: 4d9176af916ded34dbf2e333eebb405e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.26
+      value: 2.59
       objectReference: {fileID: 0}
     - target: {fileID: 2543089699095569443, guid: 4d9176af916ded34dbf2e333eebb405e, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1211,7 +1211,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 8.5
+  orthographic size: 7.5
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1236,7 +1236,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.87, y: 0, z: -10}
+  m_LocalPosition: {x: -1.08, y: 0.11, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8504,7 +8504,7 @@ TilemapRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
   m_MaxChunkCount: 16
@@ -8871,8 +8871,8 @@ SceneRoots:
   m_Roots:
   - {fileID: 519420032}
   - {fileID: 619394802}
-  - {fileID: 484625494}
   - {fileID: 245258070}
   - {fileID: 1713804806}
   - {fileID: 926475601593861706}
   - {fileID: 1306487124}
+  - {fileID: 484625494}
